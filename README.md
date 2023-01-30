@@ -31,6 +31,7 @@ Added better integrity checks for faster client speed
 
 Includes 
 - Full Emulation for Easy Anti Cheat 
+- spoofs the system ( hwid spoof )
 - Emulate Battleye Anti cheat
 - Supports windows 10 and 11 ( also supports PRO Versions of windows )
 
