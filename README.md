@@ -4,9 +4,6 @@
 - if you are interested in buying this Emulator please contact me via discord: skeng#9524
 
 
-
-[![Video Of Emulation]](https://streamable.com/gyqihv)
-
 Vouches + POC can be shown 
 Perfect for anyone who is running a pay to cheat or wanting to start developing cheats
 
@@ -31,6 +28,7 @@ Added better integrity checks for faster client speed
 
 Includes 
 - Full Emulation for Easy Anti Cheat 
+- spoofs the system ( hwid spoof )
 - Emulate Battleye Anti cheat
 - Supports windows 10 and 11 ( also supports PRO Versions of windows )
 
