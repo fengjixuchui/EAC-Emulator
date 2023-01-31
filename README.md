@@ -4,9 +4,6 @@
 - if you are interested in buying this Emulator please contact me via discord: skeng#9524
 
 
-
-[![Video Of Emulation]](https://streamable.com/gyqihv)
-
 Vouches + POC can be shown 
 Perfect for anyone who is running a pay to cheat or wanting to start developing cheats
 
