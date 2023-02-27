@@ -1,7 +1,7 @@
 # EAC-Emulator
 # updated 19/02/2023
 # The Private Source Code is now for sale, removed files due to security
-- if you are interested in buying this Emulator Source code please contact me via discord: skeng#9524
+- if you are interested in buying this Emulator Source code please contact me via discord: Skeng#6969
 
 
 Vouches + POC can be shown 
