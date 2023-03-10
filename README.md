@@ -25,6 +25,7 @@ Supports 32bit & 64bit games
 - You Can also inject with public injectors such as Extreme Injector / process hacker 
 - debugging fully and freely
 - change game memory
+- stops HWID bans / Checks 
 
 
 ![image](https://user-images.githubusercontent.com/75455555/219978119-0eeefea4-f8db-4e5d-aae0-d6211ac091cb.png)
