@@ -5,9 +5,6 @@
 
 Updates will be included with your purchase
 
-
-Video : https://streamable.com/gyqihv
-
 Vouches + Proof Of Concept can be shown 
 
 Perfect for anyone who is running a pay to cheat or wanting to start developing cheats and not wanting to worry about being detected
