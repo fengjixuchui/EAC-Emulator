@@ -16,6 +16,9 @@ Perfect for anyone who is running a pay to cheat or wanting to develop cheats an
 - fully disables anti-cheat service from running ( spoofs server packets to allow connection to game servers even though anti-cheat is not running on the system )
 - Emulates EasyAntiCheat + EAC_EOS
 
+- VCPU for privileged instructions
+- Resolves IAT/EAT
+- Handle SEH
 
 Also comes with Secure injector included within the source code too 
  
