@@ -1,9 +1,9 @@
-# EAC and Battleye Anti-Cheat Emulator
-# updated 5/03/2023
+# EAC Anti-Cheat Emulator
+# updated 13/03/2023
 # The Private Source Code is now for sale, removed all files due to security
 - if you are interested in buying this Emulator Source code please contact me via discord: Skeng#6969
 
-Updates will be included with your purchase
+Any Future Updates will be included with your purchase
 
 Vouches + Proof Of Concept can be shown 
 
