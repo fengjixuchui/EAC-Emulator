@@ -5,7 +5,7 @@ Undetected
 - if you are interested in buying this Emulator Source code please contact me via discord: Skeng#6969
 - to use just private exe build $250
 
-Any Future Updates will be included with your purchase
+Any Future Updates made to the emulator will be included with your purchase
 
 Vouches + Proof Of Concept can be shown 
 
