@@ -1,13 +1,15 @@
 # EAC Anti-Cheat Emulator
-# updated 13/03/2023
+# updated 20/03/2023
+Undetected 
 # The Private Source Code is now for sale, removed all files due to security
 - if you are interested in buying this Emulator Source code please contact me via discord: Skeng#6969
+- to use just private exe build $250
 
 Any Future Updates will be included with your purchase
 
 Vouches + Proof Of Concept can be shown 
 
-Perfect for anyone who is running a pay to cheat or wanting to develop cheats and not wanting to worry about being banned
+Perfect for anyone who is running a big pay to cheat or wanting to develop cheats and not wanting to worry about being banned
 
 
 - working for Battleye And EasyAntiCheat 
@@ -19,6 +21,7 @@ Perfect for anyone who is running a pay to cheat or wanting to develop cheats an
 - VCPU for privileged instructions
 - Resolves IAT/EAT
 - Handle SEH
+- EPT Hooks
 
 Also comes with Secure injector included within the source code too 
  
