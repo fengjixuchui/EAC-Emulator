@@ -35,10 +35,12 @@ Also comes with Secure injector included within the source code too
 # Allows you to run debugging programs without getting banned
 # Can Inject with normal injectors such as: Extreme injector, process hacker
 # Use Cheat Engine Freely without being detected / banned
-# Edit memory 
+# Edit game memory live 
 # no longer be banned by HWID or any software bans ( better than a spoofer )
 # use any hooking LIBARY that needs .text / .data or that uses Detours
-# play with detected cheats
+
+
+I mainly use for Rust and EFT
 
 
 Example image
