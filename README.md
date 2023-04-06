@@ -1,13 +1,13 @@
 # EAC / Battleye Anti-Cheat Emulator
-# Last Updated 24/03/2023
+# Last Updated 6/04/2023
 
  
-# Private Source Code is for sale, Removed all concept files due to security
+# Private Source Code is for sale, Removed all files due to security purposes
 
 - If you are interested in buying this Emulator Source code please contact me via discord: Skeng#6969
-- Full Support and Setup Help will be given
-- I Will only respond to serious enquiries / offers time wasters will not be tolerated
-Any Future Changes/Updates made to the emulator will be included with your purchase
+- Full Support and Setup Help will be given on purchase of source code
+- I Will only respond to serious enquiries / offers. time wasters will not be tolerated and will be removed 
+ Future Changes/Updates made to the emulator will be included with your purchase
 
 Vouches + Proof Of Concept can be shown 
 
@@ -40,10 +40,9 @@ Also comes with Secure injector included within the source code too
 # use any hooking LIBARY that needs .text / .data or that uses Detours
 
 
-I mainly use for Rust and EFT
+Mainly tested on Rust and EFT 
 
 
-Example image
 ![image](https://user-images.githubusercontent.com/75455555/219978119-0eeefea4-f8db-4e5d-aae0-d6211ac091cb.png)
 
 
