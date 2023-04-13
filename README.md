@@ -16,10 +16,11 @@ This is Perfect for anyone who is wanting to run a pay to cheat or wanting to de
 # About the emulator / what's included
 
 - working for Battleye And EasyAntiCheat 
-- emulates Integrity checks ( allowing you to connect to servers without having eac running )
-- completely stops EAC Heartbeat ( this will stop the anticheat kicking you from the game when the AntiCheat is disabled )
+- Bypass Integrity checks ( allowing you to connect to servers without having eac running )
+- Spoofs Authentication Packets that allow you to connect to game servers
+- kill the EAC Heartbeat ( this will stop the anticheat kicking you from the game when the AntiCheat is disabled )
 - fully disables anti-cheat service from running ( server packets to allow connection to game servers even though anti-cheat is not running on the system )
-- Emulates EasyAntiCheat + EAC_EOS and even Battleye anticheat
+- Emulates EasyAntiCheat + EAC_EOS and Battleye anticheat
 
 - VCPU for privileged instructions
 - Resolves IAT/EAT
@@ -32,18 +33,16 @@ Also comes with Secure injector included within the source code too
 # Windows Support: Windows 10 and Windows 11 support
 
 
-# Allows you to run debugging programs without getting banned
+# Allows you to run debugging programs without getting banned or detected by security of the AntiCheat
 # Can Inject with normal injectors such as: Extreme injector, process hacker
-# Use Cheat Engine Freely without being detected / banned
+# Use Cheat Engine Freely without being detected / banned or kicked
 # Edit game memory live 
-# no longer be banned by HWID or any software bans ( better than a spoofer )
-# use any hooking LIBARY that needs .text / .data or that uses Detours
+
+
 
 
 Mainly tested on Rust and EFT 
 
-
-![image](https://user-images.githubusercontent.com/75455555/219978119-0eeefea4-f8db-4e5d-aae0-d6211ac091cb.png)
 
 
 
