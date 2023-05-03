@@ -1,5 +1,5 @@
 # EAC / Battleye Anti-Cheat Emulator
-# Last Updated 6/04/2023
+# Last Updated 3/05/2023
 
  
 # Private Source Code is for sale, Removed all files due to security purposes
@@ -37,6 +37,7 @@ Also comes with Secure injector included within the source code too
 # Can Inject with normal injectors such as: Extreme injector, process hacker
 # Use Cheat Engine Freely without being detected / banned or kicked
 # Edit game memory live 
+# strip handles
 
 
 
