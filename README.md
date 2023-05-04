@@ -9,13 +9,23 @@
 - I Will only respond to serious enquiries / offers. time wasters will not be tolerated and will be removed 
  Future Changes/Updates made to the emulator will be included with your purchase
 
+
 Vouches + Proof Of Concept can be shown 
 
 This is Perfect for anyone who is wanting to run a pay to cheat or wanting to develop cheats without the risk of detections/bans to worry about
 
+
+
 # About the emulator / what's included
 
-- working for Battleye And EasyAntiCheat 
+
+- Full windows flexability, Working for all versions
+- Supports Intel + AMD CPUS
+
+- Can load the game without anticheats running and still play
+
+
+- working for Battleye And EasyAntiCheat + EAC EOS
 - Bypass Integrity checks ( allowing you to connect to servers without having eac running )
 - Spoofs Authentication Packets that allow you to connect to game servers
 - kill the EAC Heartbeat ( this will stop the anticheat kicking you from the game when the AntiCheat is disabled )
@@ -27,7 +37,8 @@ This is Perfect for anyone who is wanting to run a pay to cheat or wanting to de
 - Handles SEH
 - EPT Hooks
 
-Also comes with Secure injector included within the source code too 
+
+Also comes with a Secure injector included within the source code too 
  
 # CPU support: Intel + AMD 
 # Windows Support: Windows 10 and Windows 11 support
@@ -37,12 +48,13 @@ Also comes with Secure injector included within the source code too
 # Can Inject with normal injectors such as: Extreme injector, process hacker
 # Use Cheat Engine Freely without being detected / banned or kicked
 # Edit game memory live 
-# strip handles
+# strips all handles
+# allows create process
 
 
 
 
-Mainly tested on Rust and EFT 
+# Works on all games that are Running EAC & Battleye 
 
 
 
