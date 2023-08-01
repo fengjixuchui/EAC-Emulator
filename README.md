@@ -1,37 +1,61 @@
-# EAC Anti-Cheat Emulator
-# updated 20/03/2023
-Undetected 
-# The Private Source Code is now for sale, removed all files due to security
-- if you are interested in buying this Emulator Source code please contact me via discord: Skeng#6969
-- to use just private exe build $250
+# EAC / Battleye Anti-Cheat Emulator
+# Last Updated 3/05/2023
 
-Any Future Updates made to the emulator will be included with your purchase
+ 
+# Private Source Code is for sale, Removed all files due to security purposes
+
+- If you are interested in buying this Emulator Source code please contact me via discord: Skeng#6969
+- Full Support and Setup Help will be given on purchase of source code
+- I Will only respond to serious enquiries / offers. time wasters will not be tolerated and will be removed 
+ Future Changes/Updates made to the emulator will be included with your purchase
+
 
 Vouches + Proof Of Concept can be shown 
 
-Perfect for anyone who is running a big pay to cheat or wanting to develop cheats and not wanting to worry about being banned
+This is Perfect for anyone who is wanting to run a pay to cheat or wanting to develop cheats without the risk of detections/bans to worry about
 
 
-- working for Battleye And EasyAntiCheat 
-- emulates Integrity checks ( allowing you to connect to servers without having eac running )
-- stops EAC Heartbeat 
-- fully disables anti-cheat service from running ( spoofs server packets to allow connection to game servers even though anti-cheat is not running on the system )
-- Emulates EasyAntiCheat + EAC_EOS
+
+# About the emulator / what's included
+
+
+- Full windows flexability, Working for all versions
+- Supports Intel + AMD CPUS
+
+- Can load the game without anticheats running and still play
+
+
+- working for Battleye And EasyAntiCheat + EAC EOS
+- Bypass Integrity checks ( allowing you to connect to servers without having eac running )
+- Spoofs Authentication Packets that allow you to connect to game servers
+- kill the EAC Heartbeat ( this will stop the anticheat kicking you from the game when the AntiCheat is disabled )
+- fully disables anti-cheat service from running ( server packets to allow connection to game servers even though anti-cheat is not running on the system )
+- Emulates EasyAntiCheat + EAC_EOS and Battleye anticheat
 
 - VCPU for privileged instructions
 - Resolves IAT/EAT
-- Handle SEH
+- Handles SEH
 - EPT Hooks
 
-Also comes with Secure injector included within the source code too 
+
+Also comes with a Secure injector included within the source code too 
  
-# Supports 32bit & 64bit games
 # CPU support: Intel + AMD 
-# Windows Support: Win10 and Win11 support
-  
+# Windows Support: Windows 10 and Windows 11 support
 
 
-![image](https://user-images.githubusercontent.com/75455555/219978119-0eeefea4-f8db-4e5d-aae0-d6211ac091cb.png)
+# Allows you to run debugging programs without getting banned or detected by security of the AntiCheat
+# Can Inject with normal injectors such as: Extreme injector, process hacker
+# Use Cheat Engine Freely without being detected / banned or kicked
+# Edit game memory live 
+# strips all handles
+# allows create process
+
+
+
+
+# Works on all games that are Running EAC & Battleye 
+
 
 
 
